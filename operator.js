@@ -1,33 +1,57 @@
-//let num1 = 3;
-//let num2 = 8;
-//let sum = num1 + num2;
-//console.log(sum)
+// Operator:
+// 1. Arithmatic Operator
+// 2. Assainment Operator
+// 3. Comparision Operator
+// 4. Logical Operator
 
-//let num1 = 234890;
-//let num2 = 3737509;
-//let substract = num1 - num2;
+
+// Arithmatic Operator
+//(+,-,*,/,**,%,++,--)
+// (++ atake increment bole, -- atake dicrement bole)
+
+
+// Assainment Operator
+//(=,+=,-=,*=,/=,++=,--=,%=)
+
+
+// Comparision Operator
+//(<,>,==,===,!=,>=,<=)
+
+
+//Logical Operator
+//(&&,||,!,&,|)
+
+
+// const num1 = 50;
+// const num2 = 10;
+// const sum = num1 + num2;
+// console.log(sum)
+
+
+//const num1 = 466793
+//const num2 = 789
+//const substract = num1 - num2
 //console.log(substract)
 
 
-//let number1 = 23573893;
-//let number2 = 457947;
-//let multiply = number1 * number2;
+
+//const num1 = 7536
+//const num2 = 2940
+//const multiply = num1 * num2
 //console.log(multiply)
 
 
-//let number1 = 23793;
-//let number2 = 34;
-//let divider = number1 / number2;
+
+//const num1 = 23901739
+//const num2 = 4759
+//const divider = num1 / num2
 //console.log(divider)
 
 
-//let number1 = 25;
-//let number2 = 4;
-//let modulas = number1 % number2;
+
+//const num1 = 25
+//const num2 = 10 
+//const modulas = num1 % num2
 //console.log(modulas)
 
 
-let number1 = 25;
-let number2 = 5;
-let exponentiation = number1 ** number2;
-console.log(exponentiation)
