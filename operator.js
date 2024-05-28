@@ -15,7 +15,19 @@
 //console.log(multiply)
 
 
-let number1 = 23793;
-let number2 = 34;
-let divider = number1 / number2;
-console.log(divider)
+//let number1 = 23793;
+//let number2 = 34;
+//let divider = number1 / number2;
+//console.log(divider)
+
+
+//let number1 = 25;
+//let number2 = 4;
+//let modulas = number1 % number2;
+//console.log(modulas)
+
+
+let number1 = 25;
+let number2 = 5;
+let exponentiation = number1 ** number2;
+console.log(exponentiation)
